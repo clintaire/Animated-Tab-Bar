@@ -10,7 +10,7 @@ This project showcases an animated tab bar with vibrant icons and dynamic transi
 
 ## Preview
 
-![Animated Tab Bar Preview](https://github.com/clintaire/Animated-Tab-Bar/blob/main/Animated%20Tab%20Bar.png)
+![Animated Tab Bar Preview](https://github.com/clintaire/Animated-Tab-Bar/blob/main/atb.png)
 
 ## Usage
 
