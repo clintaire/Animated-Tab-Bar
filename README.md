@@ -18,3 +18,8 @@ This project showcases an animated tab bar with vibrant icons and dynamic transi
 
    ```bash
    git clone https://github.com/clintaire/animated-tab-bar.git
+
+
+<hr />
+
+Designed by:  Mauricio Bucardo [here](https://codepen.io/abxlfazl/pen/VwKzaEm)
